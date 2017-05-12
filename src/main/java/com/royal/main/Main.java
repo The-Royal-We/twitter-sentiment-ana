@@ -46,6 +46,7 @@ public class Main {
     private static void processTweets(List<String> tweets) {
 
         NLP.init();
+
         int index = 0;
         for(String tweet : tweets) {
             int sentiment = NLP.findSentiment(tweet);

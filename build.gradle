@@ -18,6 +18,4 @@ dependencies {
     // https://mvnrepository.com/artifact/edu.stanford.nlp/stanford-corenlp
     compile group: 'edu.stanford.nlp', name: 'stanford-corenlp', version: '3.6.0'
     compile group: 'edu.stanford.nlp', name: 'stanford-corenlp', version: '3.6.0', classifier: 'models'
-    compile 'com.twitter:twitter-text:1.14.3'
-
 }

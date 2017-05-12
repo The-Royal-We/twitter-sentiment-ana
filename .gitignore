@@ -2,4 +2,4 @@ build/
 logs/*.txt
 #src/main/resources/twitter4j.properties
 #.gradle/
-/.idea/
+.idea/
